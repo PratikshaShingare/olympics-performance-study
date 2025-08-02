@@ -1,26 +1,26 @@
-# 🏅 Olympics Athlete Performance Study
+#  Olympics Athlete Performance Study
 
 This project analyzes over 120 years of Olympic history to explore trends in medal distribution by country, gender, sport, and year.
 
-## 📁 Project Files
+##  Project Files
 - `Olympics_Athlete_Performance_Study.ipynb` — Main notebook with analysis and visualizations
 - `athlete_events.csv` — Dataset from Kaggle
 - `requirements.txt` — Python dependencies
 
-## 📊 Visualizations
+##  Visualizations
 - Top 10 countries by medal count (bar chart)
 - Gender-wise medal distribution (bar chart)
 - Total medals over the years (line chart)
 - Age distribution by sport (violin plot)
 
-## 🛠️ Tools Used
+##  Tools Used
 - Python
 - Pandas
 - Seaborn
 - Matplotlib
 - Jupyter Notebook
 
-## 🖼️ Project Previews
+##  Project Previews
 
 Screenshots from the Jupyter Notebook:
 
@@ -33,12 +33,12 @@ Screenshots from the Jupyter Notebook:
 ![Preview 7](Preview7.png)  
 ![Preview 8](Preview8.png)
 
-## 📌 Key Insights
-- 🇺🇸 **USA** has historically won the most medals.
-- 👩‍🦰 **Female participation** has increased over time.
-- 🧒 **Gymnastics** features younger athletes; 🧓 **Shooting** attracts older ones.
-- 🕒 Total number of medals awarded has grown consistently with Olympic expansion.
+##  Key Insights
+-  **USA** has historically won the most medals.
+-  **Female participation** has increased over time.
+-  **Gymnastics** features younger athletes; 🧓 **Shooting** attracts older ones.
+-  Total number of medals awarded has grown consistently with Olympic expansion.
 
 ---
 
-> ✨ Created by **Pratiksha Shingare**
+>  Created by **Pratiksha Shingare**
