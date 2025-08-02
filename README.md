@@ -36,7 +36,7 @@ Screenshots from the Jupyter Notebook:
 ##  Key Insights
 -  **USA** has historically won the most medals.
 -  **Female participation** has increased over time.
--  **Gymnastics** features younger athletes; 🧓 **Shooting** attracts older ones.
+-  **Gymnastics** features younger athletes;  **Shooting** attracts older ones.
 -  Total number of medals awarded has grown consistently with Olympic expansion.
 
 ---
